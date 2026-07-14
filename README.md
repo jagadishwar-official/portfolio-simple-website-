@@ -1,4 +1,4 @@
-# portfolio-simple-website
+# My Portfolio Website 
 ## Portfolio Website
 
 This is my personal portfolio website, developed using **HTML** and **CSS** as one of my first front-end web development projects. The website is designed with a clean and simple layout to introduce myself and provide an easy way for visitors to get in touch.
